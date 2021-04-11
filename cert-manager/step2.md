@@ -4,7 +4,7 @@ We must provide one or more Solvers for handling the ACME challenge. In this cas
 
 Once we have created the above Issuer we can use it to obtain a certificate.
 
-```
+
     apiVersion: cert-manager.io/v1
     kind: Certificate
     metadata:

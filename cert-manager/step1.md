@@ -1,6 +1,6 @@
 The following Issuer defines the necessary information to enable HTTP validation. You can read more about the Issuer resource in the Issuer docs.
 
-```
+
     apiVersion: cert-manager.io/v1
     kind: Issuer
     metadata:

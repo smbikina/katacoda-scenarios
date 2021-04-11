@@ -1,6 +1,6 @@
 After creating the above Certificate, we can check whether it has been obtained successfully using kubectl describe:
 
-```
+
     $ kubectl describe certificate example-com
     Events:
     Type    Reason          Age      From          Message
